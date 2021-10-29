@@ -1,0 +1,1 @@
+puts ["latte", "mocha", "cappuccino"].sample

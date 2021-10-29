@@ -1,0 +1,1 @@
+p ["Daikichi"," Nakakichi", "Shukichi", "Kessen."].shuffle

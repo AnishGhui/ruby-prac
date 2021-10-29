@@ -1,0 +1,1 @@
+puts ["Coffee", "Cafe Latte"].size
