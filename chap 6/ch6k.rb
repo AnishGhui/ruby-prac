@@ -4,4 +4,5 @@ menu.each_key do |key|
     key_array.push(key)
 end
 
-p key_array
+# That's good. And you can also use Hash#keys method.
+# p meny.keys #=> ["Coffee", "Cafe Latte"]

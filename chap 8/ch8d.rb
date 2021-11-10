@@ -4,7 +4,5 @@ class Item
     end
 end
 
-  
-  
-  item = Item.new
-  item.order("cheesecake")
+item = Item.new
+item.order("cheesecake")

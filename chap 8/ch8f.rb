@@ -1,7 +1,7 @@
 class Item
-    def initialize
+  def initialize
       p "object that handles products" 
-    end
   end
+end
   
-  Item.new
+Item.new

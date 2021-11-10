@@ -1,10 +1,8 @@
 class Item
     def name(text)
         puts "#{text}"
-         @name = text
+        @name = text # Make methods to assignment @name and get @name
     end
-    
-    
 end
   
 item = Item.new

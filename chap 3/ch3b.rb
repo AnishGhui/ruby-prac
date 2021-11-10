@@ -1,2 +1,2 @@
-puts a = 1+1
-puts a == 2
+a = 2
+puts a == 1 + 1
