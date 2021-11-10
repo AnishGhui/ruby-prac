@@ -1,3 +1,3 @@
 drinks = ["coffee" , "latte" ]
-drinks.push("mocha ")
+drinks.push("mocha")
 p drinks
